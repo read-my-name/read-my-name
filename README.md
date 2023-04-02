@@ -19,13 +19,15 @@
 -----
 
 ### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia and work in Singapore.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> work in Singapore.
 
-- :telescope: I’m currently working as a Software Engineer and contributing to software design engineer.
+- :telescope: I’m currently working as a Software Engineer and interested on developing.
 
 - :seedling: Exploring Trading System and Website Development.
 
 - :zap: In my free time, I solve problems from social media and read tech articles.
+
+- :weight_lifting: I like to gym, play badminton and is a member of Frisbee community(Appendix).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tan-jun-xuan/)
 
