@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=read-my-name&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome To My Paradise
+    Welcome To My Space. In here, I will share anything that I developed.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> work in Singapore.
 
-- :telescope: I’m currently working as a Software Engineer and interested on developing.
+- :telescope: I’m currently working as a Software Engineer and my interest is to develop.
 
 - :seedling: Exploring Trading System and Website Development.
 
