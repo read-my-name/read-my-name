@@ -23,7 +23,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m currently working as a Software Engineer and my interest is to develop.
 
-- :seedling: Exploring Trading System and Website Development.
+- :seedling: Exploring Trading System and Backend Development.
 
 - :zap: In my free time, I solve problems from social media and read tech articles.
 
